@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+##<Arjun Ravishankar>'s First CS193 Homework
+-I love that we code in Java for this class.
+-I like the assistants we recieve in Tools. 
+- I like how we take tools on the side of 180 because we can learn faster.
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
